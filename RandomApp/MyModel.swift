@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+struct MyModel {
+    
+    var name = "Beny"
+    let age = 18
+    
+}
